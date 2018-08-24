@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Gerencia Roteador</string>
+    <string name="canais_prompt">Escolha um canal</string>
+
+    <string-array name="canais_wifi">
+        <item>Seleção automática de canal</item>
+        <item>Canal 1: 2.412 MHz</item>
+        <item>Canal 2: 2.417 MHz</item>
+        <item>Canal 3: 2.422 MHz</item>
+        <item>Canal 4: 2.427 MHz</item>
+        <item>Canal 5: 2.432 MHz</item>
+        <item>Canal 6: 2.437 MHz</item>
+        <item>Canal 7: 2.442 MHz</item>
+        <item>Canal 8: 2.447 MHz</item>
+        <item>Canal 9: 2.452 MHz</item>
+        <item>Canal 10: 2.457 MHz</item>
+        <item>Canal 11: 2.462 MHz</item>
+        <item>Canal 12: 2.467 MHz</item>
+        <item>Canal 13: 2.472 MHz</item>
+    </string-array>
+
+    <string-array name="larguras_banda">
+        <item>20/40 MHz</item>
+        <item>20 MHz</item>
+        <item>40 MHz</item>
+    </string-array>
+
+    <string-array name="modo_rede">
+        <item>802.11 b</item>
+        <item>802.11 g</item>
+        <item>802.11 b/g</item>
+        <item>802.11 n</item>
+        <item>802.11 b/g/n</item>
+    </string-array>
+
+</resources>
